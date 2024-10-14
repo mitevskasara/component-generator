@@ -1,0 +1,5 @@
+{
+  "COMPONENTS_DIR": "src/components",
+  "TEMPLATE_DIR": "template",
+  "COMPONENT_NAME_PLACEHOLDER": "COMPONENT_NAME"
+}

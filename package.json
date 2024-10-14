@@ -1,0 +1,11 @@
+{
+  "name": "component-generator",
+  "version": "1.0.0",
+  "description": "A CLI tool for automating the creation of reusable components in React projects. This utility generates component files based on customizable templates, allowing developers to quickly scaffold new components with predefined structures and naming conventions.",
+  "main": "index.js",
+  "scripts": {
+    "create": "node index.js"
+  },
+  "author": "Mitevska Sara",
+  "license": "MIT"
+}
